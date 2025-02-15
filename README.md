@@ -2,4 +2,4 @@
 
 This dashboard provides insights into employee attrition trends, analyzing factors like age, salary, education, and job roles. It helps HR teams make data-driven decisions to improve retention.
 
-!(https://github.com/user-attachments/assets/8983ba8e-619c-4606-a33c-15835d91ed8d)
+![Screenshot (5)](https://github.com/user-attachments/assets/0221c47b-0632-4bd5-80c9-53a5d330e1d8)
